@@ -1,0 +1,16 @@
+{
+    "/js/ajax_logout.js": "/js/ajax_logout.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/category.css": "/css/category.css",
+    "/js/favorite_product.js": "/js/favorite_product.js",
+    "/js/cart.js": "/js/cart.js",
+    "/js/status_button.js": "/js/status_button.js",
+    "/js/notification.js": "/js/notification.js",
+    "/js/order_chart.js": "/js/order_chart.js",
+    "/js/chart_day.js": "/js/chart_day.js",
+    "/js/chart_week.js": "/js/chart_week.js",
+    "/js/chart_quarter.js": "/js/chart_quarter.js",
+    "/js/chart_month.js": "/js/chart_month.js",
+    "/js/Chart.js": "/js/Chart.js"
+}
